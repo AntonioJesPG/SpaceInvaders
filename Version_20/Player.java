@@ -61,7 +61,7 @@ public class Player extends Actor{
 		updateSpeed();
 		
 	}
-	
+	//Alo
 	public void keyPressed(KeyEvent e) {
 		
 		switch (e.getKeyCode()) {
